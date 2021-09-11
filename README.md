@@ -1,1 +1,1 @@
-# infinite-game
+# Chrome-Dinosuar-Game
